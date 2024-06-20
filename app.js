@@ -1,2 +1,2 @@
-import { fetchBreeds } from "./api.js";
-const breeds = fetchBreeds()
+// import { start } from "./main.js";
+// const breeds = start()
