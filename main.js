@@ -1,3 +1,11 @@
+//I found  a youtube tutorial that was help compared to what I had initially which
+//was a mish mosh of nonsensical code and chatGPT foolishness this was a great help
+//I wish I found it earlier so I could do something more align with what I initially 
+//wanted to do which didn't entail dogs. I had a difficult time with the modules so
+//I reverted back to what I initially had and just kept it all on one page. I was super
+//frustrated with this project as I didn't grasp it right away. Still uncomfortable with
+//the syntax however I completed the basics of the task.
+
 async function start(){
   const response = await fetch 
   ("https://dog.ceo/api/breeds/list/all")
